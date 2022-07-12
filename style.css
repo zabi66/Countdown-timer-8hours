@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+  }
+  p {
+      font-family: badger;
+      text-align: center;
+      font-size: 250px;
+      text-align: center;
+      position: relative;
+      top : 0px;
+      color: white;
+    }
